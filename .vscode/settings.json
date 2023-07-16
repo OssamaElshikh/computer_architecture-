@@ -1,0 +1,11 @@
+{
+    "git.ignoreLimitWarning": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "junit-platform-console-standalone-1.7.0-M1.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src",
+        "tests"
+    ]
+}
